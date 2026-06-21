@@ -1,0 +1,14 @@
+{
+  "farmName": "El-Nile Farm",
+  "location": "Egypt, North Sinai",
+  "cropStatus": "Healthy",
+  "soilStatus": "Dry",
+  "weatherStatus": "No rain",
+  "soilMoisture": 30,
+  "lastUpdateMinutes": 3,
+  "latestActivities": [
+    "New recommendation generated for Field A",
+    "1 new alert about low soil moisture",
+    "Last scan result: Early blight detected in tomatoes"
+  ]
+}

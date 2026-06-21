@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "category": "Irrigation",
+    "title": "Irrigation",
+    "field": "Field A",
+    "message": "Soil moisture is low",
+    "reason": "Moisture dropped to 30%",
+    "action": "Add 20L water in the evening",
+    "priority": "Medium",
+    "dueDate": "Today 6 PM"
+  },
+  {
+    "id": 2,
+    "category": "Disease",
+    "title": "Disease Treatment",
+    "field": "Field B",
+    "message": "Spray fungicide for infected tomato plants.",
+    "reason": "Leaf scan detected possible fungal infection",
+    "action": "Spray fungicide and re-scan after 3 days",
+    "priority": "High",
+    "dueDate": "By April 28"
+  },
+  {
+    "id": 3,
+    "category": "Fertilization",
+    "title": "Fertilization",
+    "field": "Field C",
+    "message": "Nitrogen level may be low",
+    "reason": "Growth stage requires additional nutrients",
+    "action": "Apply nitrogen-rich fertilizer",
+    "priority": "Medium",
+    "dueDate": "Tomorrow 9 AM"
+  },
+  {
+    "id": 4,
+    "category": "Irrigation",
+    "title": "Irrigation",
+    "field": "Field D",
+    "message": "Water level is below recommended range",
+    "reason": "Sensor reading decreased this morning",
+    "action": "Start irrigation cycle for 15 minutes",
+    "priority": "Low",
+    "dueDate": "Today 5 PM"
+  }
+]
