@@ -1,0 +1,25 @@
+{
+  "location": "Egypt, Mansoura",
+  "dateText": "Sunday",
+  "date": "04 Dec,2025",
+  "temp": 28,
+  "tempMin": 24,
+  "tempMax": 28,
+  "condition": "Heavy Rain",
+  "feelsLike": 31,
+  "highlights": {
+    "windSpeed": 7.9,
+    "windTime": "9:00 AM",
+    "humidity": 85,
+    "uv": 4,
+    "visibility": 5,
+    "sunrise": "4:50 AM",
+    "sunset": "6:45 PM"
+  },
+  "forecast10Days": [
+  { "day": "Today", "icon": "rain",   "temp": 28 },
+  { "day": "Mon",   "icon": "cloud",  "temp": 31 },
+  { "day": "Tue",   "icon": "storm",  "temp": 27 },
+  { "day": "Wed",   "icon": "partly", "temp": 29 },
+  { "day": "Thu",   "icon": "rain",   "temp": 32 }
+]}
